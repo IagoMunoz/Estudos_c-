@@ -9,7 +9,8 @@ int main() {
 
     while(cont < 10000) {
         cout << cont << "\n";
-        if (cont == 50000) {
+        
+        if (cont == 5000) {
             break;
         }
         cont++;
